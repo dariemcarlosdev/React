@@ -1,0 +1,22 @@
+{
+  "tasks_array": [
+    {
+      "text": "new3",
+      "day": "new3",
+      "reminder": true,
+      "id": 8
+    },
+    {
+      "text": "dasd",
+      "day": "adasd",
+      "reminder": false,
+      "id": 9
+    },
+    {
+      "text": "Task ",
+      "day": "Tracker",
+      "reminder": false,
+      "id": 10
+    }
+  ]
+}
